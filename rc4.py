@@ -1,3 +1,8 @@
+"""
+ Criptografía FI, UNAM
+ Aarón Mejia Ortiz
+ 18.2.2020
+"""
 
 def getInput(lines = []):
   """ 
